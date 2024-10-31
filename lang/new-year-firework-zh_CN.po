@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: New Year Firework\n"
+"POT-Creation-Date: 2014-03-05 19:58+0800\n"
+"PO-Revision-Date: 2014-03-05 19:59+0800\n"
+"Last-Translator: Arefly <eflyjason@gmail.com>\n"
+"Language-Team: Arefly <eflyjason@gmail.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: new-year-firework.php:48
+msgid "Settings"
+msgstr "设置"
+
+#: options.php:17 options.php:92
+msgid "New Year Firework Options Page"
+msgstr "New Year Firework 设置页面"
+
+#: options.php:17
+msgid "New Year Firework"
+msgstr "New Year Firework "
+
+#: options.php:95
+msgid "General Options"
+msgstr "一般设置"
+
+#: options.php:97
+#, php-format
+msgid "You can go to your New Year Firework directly by %sURL%s too!"
+msgstr "你也可以在%s这里%s预览烟花！"
+
+#: options.php:100
+msgid "Open Firework?"
+msgstr "开启/关闭烟花："
+
+#: options.php:102
+msgid "Open"
+msgstr "开启"
+
+#: options.php:102
+msgid "Close"
+msgstr "关闭"
+
+#: options.php:106
+msgid "Text of firework: (A Space for a line)"
+msgstr "烟花所显示的文字：（一个空格为一行）"
+
+#: options.php:109
+msgid "(English Only)"
+msgstr "（只能使用英文）"
+
+#: options.php:113
+msgid "How many times do you want to redirect to firework again?"
+msgstr "重新显示烟花的时间："
+
+#: options.php:115
+msgid "DD HH:MM:SS"
+msgstr "DD HH:MM:SS"
+
+#: options.php:116
+msgid "Use format of DD HH:MM:SS"
+msgstr "格式：DD HH:MM:SS"
+
+#: options.php:120
+msgid "Where do you want to redirect the firework from?"
+msgstr "你想从哪些地方跳转到烟花页面？"
+
+#: options.php:122
+msgid "Home"
+msgstr "首页"
+
+#: options.php:122
+msgid "Post"
+msgstr "文章"
+
+#: options.php:122
+msgid "Page"
+msgstr "页面"
+
+#: options.php:122
+msgid "Archive"
+msgstr "文章存档页面"
+
+#: options.php:122
+msgid "Search Result"
+msgstr "搜索结果页面"
+
+#: options.php:122
+msgid "All Pages"
+msgstr "所有页面"
+
+#: options.php:126
+msgid "The Music URL of the Firework: "
+msgstr "烟花的音乐链接："
+
+#: options.php:129
+msgid "Upload Music"
+msgstr "上传音乐"
+
+#: options.php:130
+msgid "(Leave Empty for No Music)"
+msgstr "（没有音乐请留空）"
